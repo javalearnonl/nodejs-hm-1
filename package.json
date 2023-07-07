@@ -1,0 +1,20 @@
+{
+  "name": "nodejshw1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "mksmvc",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "console.table": "^0.10.0",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.2"
+  }
+}
